@@ -49,6 +49,9 @@ body {
 .frontpage {
   text-align: center;
   color: white;
+  position: absolute;
+  width: 50%;
+  margin-top: 10%;
 }
 
 strong {
@@ -58,6 +61,9 @@ strong {
 .frontpage-under {
   text-align: center;
   color: white;
+  position: absolute;
+  width: 50%;
+  margin-top: 12%;
 }
 
 .navtext {
